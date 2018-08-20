@@ -7,10 +7,10 @@
     <authors>Raphael Carubbi Neto</authors>
     <owners>Raphael Carubbi Neto</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A Simple Service Locator Helper</description>
+    <description>Extended UI Controls Library</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright Carubbi Consultoria e Tecnologia 2015</copyright>
-    <tags>Service Locator</tags>
+    <tags>Extended UI Controls</tags>
   </metadata>
 </package>
 
