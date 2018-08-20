@@ -73,5 +73,8 @@
   <ItemGroup>
     <EmbeddedResource Include="Resources\RobotsResources.resx" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Carubbi.WindowsAppHelper.nuspec" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
